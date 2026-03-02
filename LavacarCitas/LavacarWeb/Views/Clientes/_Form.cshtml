@@ -1,0 +1,36 @@
+@model LavacarBLL.Dtos.ClienteDto
+
+<form id="frmCliente">
+    <input type="hidden" asp-for="ClienteId" />
+
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Identificación</label>
+            <input class="form-control" asp-for="Identificacion" />
+            <span class="text-danger" asp-validation-for="Identificacion"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Nombre completo</label>
+            <input class="form-control" asp-for="NombreCompleto" />
+            <span class="text-danger" asp-validation-for="NombreCompleto"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Fecha de nacimiento</label>
+            <input class="form-control" asp-for="FechaNacimiento" type="date" />
+            <span class="text-danger" asp-validation-for="FechaNacimiento"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Email</label>
+            <input class="form-control" asp-for="Email" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-end gap-2">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>

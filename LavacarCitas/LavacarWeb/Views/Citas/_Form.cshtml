@@ -1,0 +1,64 @@
+@model LavacarBLL.Dtos.CitaLavadoDto
+@{
+    var clientes = ViewBag.Clientes as List<LavacarBLL.Dtos.ClienteDto> ?? new();
+    var vehiculos = ViewBag.Vehiculos as List<LavacarBLL.Dtos.VehiculoDto> ?? new();
+}
+
+<form id="frmCita">
+    <div class="row g-3">
+        <div class="col-md-6">
+            <label class="form-label">Cliente</label>
+            <select class="form-select" asp-for="ClienteId">
+                <option value="">-- Seleccione --</option>
+                @foreach (var c in clientes)
+                {
+                    @if (c.ClienteId == Model.ClienteId)
+                    {
+                        <option value="@c.ClienteId" selected="selected">@c.NombreCompleto (@c.Identificacion)</option>
+                    }
+                    else
+                    {
+                        <option value="@c.ClienteId">@c.NombreCompleto (@c.Identificacion)</option>
+                    }
+                }
+            </select>
+            <span class="text-danger" asp-validation-for="ClienteId"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Vehículo</label>
+            <select class="form-select" asp-for="VehiculoId">
+                <option value="">-- Seleccione --</option>
+                @foreach (var v in vehiculos)
+                {
+                    @if (v.VehiculoId == Model.VehiculoId)
+                    {
+                        <option value="@v.VehiculoId" selected="selected">@v.Placa - @v.Marca @v.Modelo</option>
+                    }
+                    else
+                    {
+                        <option value="@v.VehiculoId">@v.Placa - @v.Marca @v.Modelo</option>
+                    }
+                }
+            </select>
+            <div class="form-text">Regla: el vehículo debe pertenecer al cliente indicado.</div>
+            <span class="text-danger" asp-validation-for="VehiculoId"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Fecha de la cita</label>
+            <input class="form-control" name="FechaCita" type="datetime-local" value="@Model.FechaCita.ToString("yyyy-MM-ddTHH:mm")" />
+            <span class="text-danger" asp-validation-for="FechaCita"></span>
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Estado</label>
+            <input class="form-control" value="Ingresada" disabled />
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-end gap-2">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>

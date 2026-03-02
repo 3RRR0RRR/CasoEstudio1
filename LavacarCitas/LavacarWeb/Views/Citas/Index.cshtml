@@ -1,0 +1,33 @@
+@{ ViewData["Title"] = "Citas"; }
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <h2 class="fw-bold mb-0">Citas de lavado</h2>
+    <button class="btn btn-primary" id="btnNueva">Nueva</button>
+</div>
+
+<table id="tblCitas" class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Cliente</th>
+            <th>Vehículo</th>
+            <th>Fecha</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+</table>
+
+<div class="modal fade" id="modalCita" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Nueva cita</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body" id="modalCitaBody"></div>
+    </div>
+  </div>
+</div>
+
+@section Scripts { <script src="~/js/citas.js"></script> }

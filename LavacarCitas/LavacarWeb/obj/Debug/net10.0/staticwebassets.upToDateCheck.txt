@@ -1,0 +1,6 @@
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarWeb\wwwroot\js\clientes.js
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarWeb\wwwroot\js\citas.js
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarWeb\wwwroot\js\vehiculos.js
+wwwroot\js\citas.js
+wwwroot\js\clientes.js
+wwwroot\js\vehiculos.js

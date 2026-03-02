@@ -1,0 +1,78 @@
+@model LavacarBLL.Dtos.VehiculoDto
+@{
+    var clientes = ViewBag.Clientes as List<LavacarBLL.Dtos.ClienteDto> ?? new();
+    bool editando = Model.VehiculoId > 0;
+}
+
+<form id="frmVehiculo">
+    <input type="hidden" asp-for="VehiculoId" />
+
+    <div class="row g-3">
+        <div class="col-md-4">
+            <label class="form-label">Placa</label>
+            <input class="form-control" asp-for="Placa" />
+            <span class="text-danger" asp-validation-for="Placa"></span>
+        </div>
+
+        <div class="col-md-4">
+            <label class="form-label">Marca</label>
+            <input class="form-control" asp-for="Marca" />
+            <span class="text-danger" asp-validation-for="Marca"></span>
+        </div>
+
+        <div class="col-md-4">
+            <label class="form-label">Modelo</label>
+            <input class="form-control" asp-for="Modelo" />
+            <span class="text-danger" asp-validation-for="Modelo"></span>
+        </div>
+
+        <div class="col-md-12">
+            <label class="form-label">Cliente</label>
+            @if (editando) { 
+    <select class="form-select" asp-for="ClienteId" disabled>
+
+<option value="">-- Seleccione --</option>
+@foreach (var c in clientes)
+{
+    @if (c.ClienteId == Model.ClienteId)
+    {
+        <option value="@c.ClienteId" selected="selected">@c.NombreCompleto (@c.Identificacion)</option>
+    }
+    else
+    {
+        <option value="@c.ClienteId">@c.NombreCompleto (@c.Identificacion)</option>
+    }
+}
+    </select>
+} else {
+    <select class="form-select" asp-for="ClienteId">
+
+<option value="">-- Seleccione --</option>
+@foreach (var c in clientes)
+{
+    @if (c.ClienteId == Model.ClienteId)
+    {
+        <option value="@c.ClienteId" selected="selected">@c.NombreCompleto (@c.Identificacion)</option>
+    }
+    else
+    {
+        <option value="@c.ClienteId">@c.NombreCompleto (@c.Identificacion)</option>
+    }
+}
+    </select>
+}
+
+            @if (editando)
+            {
+                <input type="hidden" name="ClienteId" value="@Model.ClienteId" />
+                <div class="form-text">En edición no se permite cambiar el cliente (regla de negocio).</div>
+            }
+            <span class="text-danger" asp-validation-for="ClienteId"></span>
+        </div>
+    </div>
+
+    <div class="mt-4 d-flex justify-content-end gap-2">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+        <button type="submit" class="btn btn-primary">Guardar</button>
+    </div>
+</form>

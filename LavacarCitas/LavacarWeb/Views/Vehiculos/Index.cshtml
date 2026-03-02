@@ -1,0 +1,33 @@
+@{ ViewData["Title"] = "Vehículos"; }
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <h2 class="fw-bold mb-0">Vehículos</h2>
+    <button class="btn btn-primary" id="btnNuevo">Nuevo</button>
+</div>
+
+<table class="table table-striped" id="tblVehiculos" style="width:100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Placa</th>
+            <th>Marca</th>
+            <th>Modelo</th>
+            <th>Cliente</th>
+            <th style="width:140px">Acciones</th>
+        </tr>
+    </thead>
+</table>
+
+<div class="modal fade" id="modalVehiculo" tabindex="-1" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="modalVehiculoTitle">Vehículo</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body" id="modalVehiculoBody"></div>
+    </div>
+  </div>
+</div>
+
+@section Scripts { <script src="~/js/vehiculos.js"></script> }

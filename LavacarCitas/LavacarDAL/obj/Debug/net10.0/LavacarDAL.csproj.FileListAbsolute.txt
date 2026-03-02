@@ -1,0 +1,12 @@
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\bin\Debug\net10.0\LavacarDAL.deps.json
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\bin\Debug\net10.0\LavacarDAL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\bin\Debug\net10.0\LavacarDAL.pdb
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.AssemblyInfo.cs
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\refint\LavacarDAL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\LavacarDAL.pdb
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarDAL\obj\Debug\net10.0\ref\LavacarDAL.dll

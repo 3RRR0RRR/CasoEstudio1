@@ -1,0 +1,15 @@
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\bin\Debug\net10.0\LavacarBLL.deps.json
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\bin\Debug\net10.0\LavacarBLL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\bin\Debug\net10.0\LavacarBLL.pdb
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\bin\Debug\net10.0\LavacarDAL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\bin\Debug\net10.0\LavacarDAL.pdb
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.csproj.AssemblyReference.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.AssemblyInfoInputs.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.AssemblyInfo.cs
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.csproj.CoreCompileInputs.cache
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.csproj.Up2Date
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\refint\LavacarBLL.dll
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\LavacarBLL.pdb
+C:\Users\matia\Downloads\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\LavacarCitas\LavacarBLL\obj\Debug\net10.0\ref\LavacarBLL.dll

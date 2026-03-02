@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|c:\\users\\matia\\downloads\\lavacarcitas_net10_sqlite_no_autocreate_db_jsfix\\lavacarcitas\\lavacarweb\\wwwroot\\js\\citas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|solutionrelative:lavacarweb\\wwwroot\\js\\citas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|c:\\users\\matia\\downloads\\lavacarcitas_net10_sqlite_no_autocreate_db_jsfix\\lavacarcitas\\lavacarweb\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|solutionrelative:lavacarweb\\views\\citas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|c:\\users\\matia\\downloads\\lavacarcitas_net10_sqlite_no_autocreate_db_jsfix\\lavacarcitas\\lavacarweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|solutionrelative:lavacarweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|c:\\users\\matia\\downloads\\lavacarcitas_net10_sqlite_no_autocreate_db_jsfix\\lavacarcitas\\lavacarweb\\views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A8E67D5-2E40-4B9C-9E42-3B5A8E66E5A1}|LavacarWeb\\LavacarWeb.csproj|solutionrelative:lavacarweb\\views\\vehiculos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "citas.js",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\wwwroot\\js\\citas.js",
+              "RelativeDocumentMoniker": "LavacarWeb\\wwwroot\\js\\citas.js",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\wwwroot\\js\\citas.js",
+              "RelativeToolTip": "LavacarWeb\\wwwroot\\js\\citas.js",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-02T11:14:33.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Citas\\Index.cshtml",
+              "RelativeDocumentMoniker": "LavacarWeb\\Views\\Citas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Citas\\Index.cshtml",
+              "RelativeToolTip": "LavacarWeb\\Views\\Citas\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T11:11:24.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LavacarWeb\\Views\\Vehiculos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Vehiculos\\Index.cshtml",
+              "RelativeToolTip": "LavacarWeb\\Views\\Vehiculos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T10:59:31.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LavacarWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\LavacarCitas_NET10_SQLite_NO_AUTOCREATE_DB_JSFIX\\LavacarCitas\\LavacarWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LavacarWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T10:57:58.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
